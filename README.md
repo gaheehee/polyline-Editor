@@ -1,4 +1,4 @@
-# polyline-Editor 프로그램 간단한 사용 설명
+### polyline-Editor 프로그램 간단한 사용 설명
 
 <br>
 
@@ -8,7 +8,7 @@
 + 이미 존재하는 점 클릭 후 드래그 시, 원하는 곳으로 점 위치 변경 가능  
 + clear 버튼 클릭 시, 화면이 cleare.
 
-# polyline-Editor 코드 설명
+### polyline-Editor 코드 설명
 
 <br>
 
